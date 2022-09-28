@@ -17,7 +17,7 @@ As data scientists, sometimes we get over excited when we finish our number crun
 
 ### Know Your Audience
 ![Test Image](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/confused.png)
-###### In this figure, you can see how a data scientist might breeze over type I or type II without explaining to someone what those actually mean
+   ###### *In this figure, you can see how a data scientist might breeze over type I or type II without explaining to someone what those actually mean*
 Imagine you are giving a huge presentation on an analysis that your boss wanted you to explore. You get through the whole thing and are beaming with excitement, only to find that your boss asks you, "What does a coefficient of correlation mean?". You soon realized that you had said that term over a dozen times throughout your explanation without really explaining what it is or what the value indicate. In reality, unless you understand what your audience is truly wanting to discover, you might present it in a way that doesn't make sense or doesn't answer the intended question. The need to translate your code to understandable language is imperative. Knowing your audience means knowing the extent of their knowledge and what they will take away from the information you give them. If your boss understands what a standard deviation indicates, then you would not not need to explain that. On the reverse, if you are presenting to other data scientists, you can clearly use chunks of code and terminology with have limited explanation as to what a specific number inidcates about the data being analyzed. Knowing your audience is the key to transmitting your insights and implementing them into day to day life. 
 
 ### Data Visualization
