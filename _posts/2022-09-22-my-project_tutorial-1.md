@@ -8,5 +8,7 @@ image: /assets/images/dumbdownconsideraudience.jpg
 ---
 
 # HOW TO PRESENT DATA TO AN AUDIENCE
+-Zack Driscoll
+
 ![Test Image](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/dumbdownconsideraudience.jpg)
 
