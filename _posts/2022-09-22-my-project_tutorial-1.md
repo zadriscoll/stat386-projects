@@ -12,3 +12,5 @@ image: /assets/images/dumbdownconsideraudience.jpg
 
 ![Test Image](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/dumbdownconsideraudience.jpg)
 
+# NOT EVERYONE UNDERSTANDS THE CODE AND INFORMATION
+Imagine you are giving a huge presentation on an analysis that your boss had wanted you to run. In reality, unless you understand what your boss is truly wanting to discover, you might present it in a way that doesn't make sense or doesn't answer the intended question. The need to translate your code to actual reality is imperative 
