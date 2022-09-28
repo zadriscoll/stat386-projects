@@ -43,4 +43,5 @@ Lastly, the information you share has to be relevant to people lives or there wi
 * Know your audience
 * Data visualization
 * Story telling
+
 The combination of these three powerful tools will make your average presentation become stellar. You will gain more followers and impact a wider audience.
