@@ -24,9 +24,9 @@ Imagine you are giving a huge presentation on an analysis that your boss wanted 
 ### Data Visualization
 The number one way to grab interest and hold it is through visuals. We live in a day and age where the technology that we have access to can produce intricate graphs and visuals. BEWARE, do not rely soly on graphical information to relay the message. In some cases, the information displayed on a graph is just as illegible as a chunk of code to some people. It is important to have designs that are understandable and have a clear explanation of what each visual is indicating.  
 ![Test Image](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/bad_viz.jpg)
-###### *This graph clearly is not an ideal visualization, and most everyone would get lost looking at this without being able to draw any conclusions.*
+###### *This graph clearly is not an ideal visualization, and most everyone would get lost looking at this without being able to draw any conclusions*
 ![Test Image](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/good_viz.png)
-###### *This graph clearly indicates good titles, helpful coloring, and legible conclusions that can easily be explained.* 
+###### *This graph clearly indicates good titles, helpful coloring, and legible conclusions that can easily be explained* 
 
 
 ### Story Telling
