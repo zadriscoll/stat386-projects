@@ -8,5 +8,5 @@ image: /assets/images/dumbdownconsideraudience.jpg
 ---
 
 # HOW TO PRESENT DATA TO AN AUDIENCE
-
+![Test Image](https://raw.githubusercontent.com/esnt/stat386-projects/main/assets/images/image5.jpg)
 
