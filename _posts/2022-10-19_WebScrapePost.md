@@ -16,7 +16,10 @@ This topic is a no brainer for me. My wife is a realtor, my dad builds custom ho
 ### First Things First:
 Before getting too head deep, I needed to understand what Zillow looks like and how I would justify the ethical side of things. Ethically, this is very sound. No personal information is attached and all I am doing is organizing already accessible data to the public.
 
+I wanted to see what I was dealing with layout wise, so I navigated to Zillow and ran a quick search for homes in SLC, UT.
 ![Zillowweb](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/zillowoutline.JPG)
+
+Upon clicking on the inspect tool, this is what I was greeted with:
 ![inspecttool](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/zillowinspect.JPG)
 These are some basic layouts of what I was dealing with. 
 
