@@ -9,15 +9,15 @@ image: /assets/images/zillow.jpg
 # Getting House Data From Zillow
 ###### by Zack Driscoll
 
-![Test Image](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/zillow.jpg)
+![Main](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/zillow.jpg)
 ### Inspiration
 This topic is a no brainer for me. My wife is a realtor, my dad builds custom homes, and just this year my wife and I purchased our first property. A key motivator in real estate is making sure you are getting the best deal. The data found in this article is not unheard of. In fact, you can easily find all of this data on Zillow. The real value is that from this blog post, you will be equiped to walk away from here with code in hand and the ability to quickly analyze all properties in any given city. The ease of use and speedy calculations is what makes this amazing. Real estate analysts would love this type of set up. 
 
 ### First Things First:
 Before getting too head deep, I needed to understand what Zillow looks like and how I would justify the ethical side of things. Ethically, this is very sound. No personal information is attached and all I am doing is organizing already accessible data to the public.
 
-![Test Image](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/zillowoutline.jpg)
-![Test Image](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/zillowinspect.jpg)
+![Zillowweb](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/zillowoutline.jpg)
+![inspecttool](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/zillowinspect.jpg)
 These are some basic layouts of what I was dealing with. 
 
 ### Research, Don't Re-invent the Wheel
@@ -52,3 +52,6 @@ df['price per sq ft'] = df['unformattedPrice'] / df['area']
 
 ### Conclusion:
 Go and give this code a whirl. Change the city to where you are located and see what other cool columns of information you can create, and don't forget to give cool visuals to boost your data presentation. Comment with your results below :)
+
+Here is a link to the code:
+[GitHub Repo](https://github.com/zadriscoll/zillow.git)
