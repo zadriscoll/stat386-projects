@@ -16,8 +16,8 @@ This topic is a no brainer for me. My wife is a realtor, my dad builds custom ho
 ### First Things First:
 Before getting too head deep, I needed to understand what Zillow looks like and how I would justify the ethical side of things. Ethically, this is very sound. No personal information is attached and all I am doing is organizing already accessible data to the public.
 
-![Zillowweb](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/zillowoutline.jpg)
-![inspecttool](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/zillowinspect.jpg)
+![Zillowweb](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/zillowoutline.JPG)
+![inspecttool](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/zillowinspect.JPG)
 These are some basic layouts of what I was dealing with. 
 
 ### Research, Don't Re-invent the Wheel
