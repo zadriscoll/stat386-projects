@@ -53,6 +53,16 @@ I also included an important column in my opinion which was price/sq ft. This re
 df['price per sq ft'] = df['unformattedPrice'] / df['area']
 ```
 
+Lastly, I wanted to make sure I had a large dataset from compiled days. I decided to download each pull into a specific csv file for any future needs.
+```python
+## READ TO CSV FILE
+
+compression_opts = dict(method='zip',
+                        archive_name='slchomes_10_19.csv')  
+homes.to_csv('slchomes_10_19.zip', index=False,
+          compression=compression_opts) 
+```
+
 ### Conclusion:
 Go and give this code a whirl. Change the city to where you are located and see what other cool columns of information you can create, and don't forget to give cool visuals to boost your data presentation. Comment with your results below :)
 
