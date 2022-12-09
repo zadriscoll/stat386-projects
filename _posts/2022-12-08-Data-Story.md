@@ -16,6 +16,7 @@ After gathering all the data, I took time to run visuals. What this essentially 
 
 # Paint the Picture
 ![propertypes](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/propertypesmain.jpg)
+
 In this graphic, the story to tell is really comparing the housing market across cities. These violin charts show the distribution of homes with regard to price across several cities.
 
 Something unique about these charts is that they are interactive and display a lot of information with just the hover of the mouse.
