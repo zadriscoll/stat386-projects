@@ -4,7 +4,7 @@ title:  "The Story of Zillow"
 date:   2022-12-08
 author: Zack Driscoll
 description: This is a summary of my last four posts concerning Zillow data and how it tells a describes the housing market.
-image: /assets/images/image5.jpg
+image: /assets/images/mainpic.jpg
 ---
 
 
@@ -15,21 +15,21 @@ Zillow is a website full of data waiting to be analyzed. When I began this proje
 After gathering all the data, I took time to run visuals. What this essentially did was give me a better idea of where to direct my focus. As I progressed further into the project, I has initially started with just analyzing one city, but by the time I was finished I was analzying across several cities to see if there were significant differences. This was especially helpful in looking for future rental or investment properties.
 
 # Paint the Picture
-![propertypes](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/propertypesmain.jpg)
+![propertypes](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/propertypesmain.png)
 
 In this graphic, the story to tell is really comparing the housing market across cities. These violin charts show the distribution of homes with regard to price across several cities.
 
 Something unique about these charts is that they are interactive and display a lot of information with just the hover of the mouse.
 
-![propertypes](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/propertypesmain2.jpg)
+![propertypes](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/propertypesmain2.png)
 
 Another interesting piece to this is the ability to zoom and isolate and compare specific cities with just the drag of your mouse.
 
-![propertypes](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/propertypesmain3.jpg)
+![propertypes](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/propertypesmain3.png)
 
 
 
-![propertypes](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/propertypesmain4.jpg)
+![propertypes](https://raw.githubusercontent.com/zadriscoll/stat386-projects/main/assets/images/propertypesmain4.png)
 
 From our analysis, it can be concluded that the median house price is highest in Pleasant Grove compared to the other cities.Additionally, American Fork seems to have the largest spread of houses on the market, and Spanish Fork has the least spread. 
 
